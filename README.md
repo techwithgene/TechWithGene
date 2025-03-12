@@ -2,14 +2,11 @@
 # Hi there, I'm TechWithGene
 <a href="https://linkedin.com/in/eugenechoi22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a soon to be graduate from Southern New Hampshire University with a Bachelor's in Information Technology (IT) and concentration in Cybersecurity. I made the career piviot into IT because of my profound interest in technology and a dedication to solving contemporary problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop skills centered around networking, cybersecurity, and computer information systems as a whole. I am now eager to transition into the field and build an IT foundation, whether it be starting at help desk or anything beyond. I have ambitions to refine a wide skillset which includes scripting (Python/Bash). 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -26,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Network (Wireshark)
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -57,5 +54,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Packet Tracer Labs
+- Wireshark Labs
