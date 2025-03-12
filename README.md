@@ -1,4 +1,4 @@
-## Welcome 👋
+## Welcome 👋 (Page is still a work in progress)
 # Hi there, I'm TechWithGene
 <a href="https://linkedin.com/in/eugenechoi22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -9,7 +9,6 @@ I am a soon to be graduate from Southern New Hampshire University with a Bachelo
 My journey in IT has led me to develop skills centered around networking, cybersecurity, and computer information systems as a whole. I am now eager to transition into the field and build an IT foundation, whether it be starting at help desk or anything beyond. I have ambitions to refine a wide skillset which includes scripting (Python/Bash). 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,6 @@ My journey in IT has led me to develop skills centered around networking, cybers
 | Logical/Physical Network Design with Packet Tracer | Packet Tracer Lab |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -31,13 +29,13 @@ My journey in IT has led me to develop skills centered around networking, cybers
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint (work in progress)
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM (work in progress)
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -45,7 +43,6 @@ My journey in IT has led me to develop skills centered around networking, cybers
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
