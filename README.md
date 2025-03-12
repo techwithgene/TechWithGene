@@ -19,7 +19,7 @@ My journey in IT has led me to develop skills centered around networking, cybers
 | Incident Response Planning and Execution      | TBA |
 | Case Management with TheHive                  | TBA |
 | Scripting and Automation for Threat Mitigation | TBA |
-| Logical/Physical Network Design with Packet Tracer | SOC Automation Lab|
+| Logical/Physical Network Design with Packet Tracer | Packet Tracer Lab |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
