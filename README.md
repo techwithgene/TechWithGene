@@ -12,13 +12,11 @@ My journey in IT has led me to develop skills centered around networking, cybers
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Active Directory Group Policy Lab          | <a href="https://google.com">Detection Lab</a>|
+| AWS EC2 instance to working Wordpress website | <a href="[https://google.com](https://www.linkedin.com/in/eugenechoi22/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEpqaHYBowXqwiYwdMdQyslEzW4NJsqBUXM)">LinkedIn Project</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab (work in progress)|
-| Incident Response Planning and Execution      | TBA |
-| Case Management with TheHive                  | TBA |
-| Scripting and Automation for Threat Mitigation | TBA |
 | Logical/Physical Network Design with Packet Tracer | Packet Tracer Lab |
+| SIEM Implementation and Log Analysis      | TBA |
 
 ## Tools
 
