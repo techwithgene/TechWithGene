@@ -15,7 +15,7 @@ My journey in IT has led me to develop skills centered around networking, cybers
 | AWS EC2 instance to working Wordpress website | <a href="https://www.linkedin.com/in/eugenechoi22/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEpqaHYBowXqwiYwdMdQyslEzW4NJsqBUXM">LinkedIn Project with Screenshots</a>|
 | Active Directory Group Policy Lab          | <a href="https://www.linkedin.com/in/eugenechoi22/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEpqaHYBowXqwiYwdMdQyslEzW4NJsqBUXM">LinkedIn Project with Screenshots</a>|
 | Logical/Physical Network Design with Packet Tracer | Packet Tracer Lab (work in progress) |
-| Log Analysis      | Wireshark Analysis (work in progress) |
+| Packet Capture Analysis      | Wireshark Analysis (work in progress) |
 
 ## Tools
 
