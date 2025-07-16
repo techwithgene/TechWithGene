@@ -23,7 +23,7 @@ My journey in IT has led me to develop skills centered around networking, cybers
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Packet_Tracer-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TBD-777BB4?&style=for-the-badge&logo=TBD&logoColor=white" />
 </div>
 
 ## Certifications
