@@ -1,12 +1,12 @@
-## Welcome 👋 (Page is still a work in progress)
+## Welcome 👋 (Page is a continuous work in progress)
 # Hi there, I'm TechWithGene
 <a href="https://linkedin.com/in/eugenechoi22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a soon to be graduate from Southern New Hampshire University with a Bachelor's in Information Technology (IT) and concentration in Cybersecurity. I made the career piviot into IT because of my profound interest in technology and a dedication to solving contemporary problems.
+I am an Information Technology (IT) graduate looking to now refine my skills to match the current tech landscape in data, security, cloud, and overall technology. While writing this, I am currently working for Hackensack Meridian Health as part of the Digital Technology Services (DTS) support team. I made a career pivot into IT because of my profound interest in technology and dedication to solving contemporary problems. This Github page is being used to document parts of my IT learning journey.
 
 ## Objective
 
-My journey in IT has led me to develop skills centered around networking, security, data, and computer information systems as a whole. I am now eager to transition into the field and build an IT foundation, whether it be starting at help desk or anything beyond. I currently working on building a scripting/database foundation in Python/SQL. 
+My journey in IT has led me to develop skills centered around networking, security, data, and computer information systems as a whole. I am now eager to transition further into the field. At this moment I am currently working on building a scripting/database foundation in Python/SQL. 
 
 ## Skills
 
@@ -15,7 +15,7 @@ My journey in IT has led me to develop skills centered around networking, securi
 | AWS EC2 instance to working Wordpress website | <a href="https://www.linkedin.com/in/eugenechoi22/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEpqaHYBowXqwiYwdMdQyslEzW4NJsqBUXM">LinkedIn Project with Screenshots</a>|
 | Active Directory Group Policy Lab             | <a href="https://www.linkedin.com/in/eugenechoi22/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEpqaHYBowXqwiYwdMdQyslEzW4NJsqBUXM">LinkedIn Project with Screenshots</a>|
 | Python                                        | <a href="https://github.com/techwithgene/pythonCrashCourse">Repo</a>|
-| Logical/Physical Network Design with Packet Tracer | Packet Tracer Lab (will upload on later date) |
+| Logical/Physical Network Design with Packet Tracer | Packet Tracer Labs (will upload on later date) |
 
 ## Tools
 
