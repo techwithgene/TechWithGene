@@ -14,7 +14,7 @@ My journey in IT has led me to develop skills centered around networking, securi
 |-----------------------------------------------|----------------------------|
 | AWS EC2 instance to working Wordpress website | <a href="https://www.linkedin.com/in/eugenechoi22/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEpqaHYBowXqwiYwdMdQyslEzW4NJsqBUXM">LinkedIn Project with Screenshots</a>|
 | Active Directory Group Policy Lab             | <a href="https://www.linkedin.com/in/eugenechoi22/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEpqaHYBowXqwiYwdMdQyslEzW4NJsqBUXM">LinkedIn Project with Screenshots</a>|
-| Python                                        | <a href="https://github.com/techwithgene/pythonCrashCourse">Repo</a>|
+| Python                                        | <a href="https://github.com/techwithgene/pythonCrashCourse">Repository</a>|
 | Logical/Physical Network Design with Packet Tracer | Packet Tracer Labs (will upload on later date) |
 
 ## Tools
